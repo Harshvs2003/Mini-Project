@@ -1,0 +1,108 @@
+{
+  "homeKitchenDishes": [
+    {
+      "id": 1,
+      "name": "Paneer Butter Masala",
+      "price": 140,
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/08/paneer-butter-masala.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Chole Bhature",
+      "price": 120,
+      "image": "https://static.toiimg.com/thumb/53314156.cms?width=1200&height=900"
+    },
+    {
+      "id": 3,
+      "name": "Veg Biryani",
+      "price": 130,
+      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/01/veg-biryani-recipe-2.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Rajma Chawal",
+      "price": 110,
+      "image": "https://www.indianveggiedelight.com/wp-content/uploads/2023/06/rajma-chawal-featured.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Masala Dosa",
+      "price": 115,
+      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/01/masala-dosa-recipe-1.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Aloo Paratha",
+      "price": 100,
+      "image": "https://www.whiskaffair.com/wp-content/uploads/2020/08/Aloo-Paratha-2-3.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Pav Bhaji",
+      "price": 105,
+      "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Mumbai-Pav-Bhaji-Recipe.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Samosa Chaat",
+      "price": 90,
+      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/01/samosa-chaat.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Hyderabadi Biryani",
+      "price": 150,
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/06/hyderabadi-biryani-500x500.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Dhokla",
+      "price": 85,
+      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/01/khaman-dhokla-1.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Kadhi Pakora",
+      "price": 95,
+      "image": "https://www.cookwithmanali.com/wp-content/uploads/2017/07/Kadhi-Pakora-Recipe-North-Indian.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Palak Paneer",
+      "price": 135,
+      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/08/palak-paneer-1.jpg"
+    }
+  ],
+  "popularItems": [
+    {
+      "id": 1,
+      "name": "Paneer Tikka",
+      "price": 160,
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/paneer-tikka-1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Dal Makhani",
+      "price": 150,
+      "image": "https://www.whiskaffair.com/wp-content/uploads/2020/06/Dal-Makhani-2-3.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Chicken Biryani",
+      "price": 180,
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/chicken-biryani-recipe-500x500.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Idli Sambhar",
+      "price": 110,
+      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/01/idli-recipe.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Poori Aloo",
+      "price": 95,
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/07/poori-bhaji.jpg"
+    }
+  ]
+}
